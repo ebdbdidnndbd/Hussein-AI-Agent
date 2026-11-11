@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.SagerSpace" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/neon_purple</item>
+        <item name="colorPrimaryDark">@color/space_bg</item>
+        <item name="colorAccent">@color/neon_cyan</item>
+        <item name="android:windowBackground">@color/space_bg</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+</resources>

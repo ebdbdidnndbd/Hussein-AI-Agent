@@ -1,0 +1,17 @@
+<resources>
+    <!-- خلفية الفضاء -->
+    <color name="space_bg">#0A0B1E</color>
+    <color name="space_bg_light">#13152E</color>
+    <color name="space_panel">#1C1F3D</color>
+
+    <!-- ألوان نيون -->
+    <color name="neon_purple">#8B5CF6</color>
+    <color name="neon_cyan">#22D3EE</color>
+    <color name="neon_pink">#F472B6</color>
+    <color name="neon_green">#34D399</color>
+    <color name="neon_red">#F87171</color>
+
+    <!-- نصوص -->
+    <color name="text_primary">#F1F5FF</color>
+    <color name="text_secondary">#9CA3C7</color>
+</resources>
